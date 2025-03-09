@@ -22,6 +22,11 @@ This project demonstrates how to interact with the Cygnus Finance API using Node
     ```
 
 3. Create a `proxy.txt` file in the same directory as the script. This file should contain the list of proxies, one per line.
+    ```bash
+    ip:port # Default Protcol HTTP.
+    protocol://ip:port
+    protocol://user:pass@ip:port
+    ```
 
 4. Update the script with your account information and cookies.
 
