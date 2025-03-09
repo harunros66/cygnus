@@ -10,7 +10,7 @@ const headers = {
     'accept-encoding': 'gzip, deflate, br, zstd',
     'accept-language': 'en-US,en;q=0.8',
     'content-type': 'application/json',
-    'cookie': 'ISI COOKIE KAMU', // CHANGE THIS
+    'cookie': 'USE YOUR COOKIE', // CHANGE THIS
     'origin': 'https://i.cygnus.finance',
     'referer': 'https://i.cygnus.finance/',
     'sec-ch-ua': '"Chromium";v="134", "Not:A-Brand";v="24", "Brave";v="134"',
